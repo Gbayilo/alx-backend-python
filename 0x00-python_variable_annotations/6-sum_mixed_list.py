@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 6's module.
+'''A type-annotation of sum_mixed_list.
 '''
 from typing import List, Union
 
