@@ -3,6 +3,8 @@
 import math
 
 
-def floor(n: float) -> float:
-    """ Returns the floor of the float."""
-    return math.floor(n)
+def floor(a: float) -> int:
+    '''Computes the floor of a floating-point number.
+    '''
+    return int(a)
+
